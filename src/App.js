@@ -7,6 +7,8 @@ import Header from './components/Header';
 import { BrowserRouter as Router,Switch,Route } from 'react-router-dom';
 import AnonymousPage from './components/anonymousPage';
 
+
+
 function App() {
   return (
     <div>
